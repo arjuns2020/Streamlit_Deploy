@@ -1,1 +1,1 @@
-![Screenshot](streamlit.JPG)
+![Screenshot](Streamlit.JPG)
